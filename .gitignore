@@ -3,6 +3,9 @@ yii
 yii_test
 yii_test.bat
 
+init
+init.bat
+
 # phpstorm project files
 .idea
 
